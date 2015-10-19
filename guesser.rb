@@ -30,8 +30,4 @@ class Guesser < Player
 		@number_of_attempts < 0
 	end	
 
-	def check_guessed_characters
-
-	end	
-
 end

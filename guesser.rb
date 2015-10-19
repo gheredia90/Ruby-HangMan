@@ -29,5 +29,4 @@ class Guesser < Player
 	def reached_attempts_limit?
 		@number_of_attempts < 0
 	end	
-
 end
